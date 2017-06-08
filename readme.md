@@ -15,4 +15,4 @@ I am still working on assets lending functionality.
   
   default email: 'admin@test.com'
   default password: '123456'
-  you change change email password in AdminTableSeeder
+  you can change change email password in AdminTableSeeder
